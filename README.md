@@ -39,6 +39,7 @@ d) F4 = (PQ + R(S+T))’
 - F2.asc : LTspice simulation file for F2 expression.
 - F3.asc : LTspice simulation file for F3 expression.
 - F4.asc : LTspice simulation file for F4 expression.
+- HALF_ADDER.asc : LTspice simulation file for Half adder.
 
 # Boolean Expressions - Calculations
 
