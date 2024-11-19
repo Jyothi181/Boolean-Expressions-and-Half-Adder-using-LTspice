@@ -152,7 +152,7 @@ So, with the given inputs, the voltage source will start at initial value, then 
 - VA = `PULSE(0 5 0 1n 1n 5u 10u)`
 - VB = `PULSE(0 5 0 1n 1n 10u 20u)`
 
-![image](https://github.com/user-attachments/assets/f814d795-5185-44bc-905e-c6c1751c60a7)
+![image](https://github.com/Jyothi181/Pictures/blob/main/Picture24.png)
 
 ***Figure 1: LTspice Schematic of F1 expression***
 
@@ -165,7 +165,7 @@ So, with the given inputs, the voltage source will start at initial value, then 
 - VC = `PULSE(0 5 0 1n 1n 15u 20u)`
 - VD = `PULSE(0 5 0 1n 1n 20u 25u)`
    
-![image](https://github.com/user-attachments/assets/4136efaf-949b-408b-a9d7-629264ae3f8c)
+![image](https://github.com/Jyothi181/Pictures/blob/main/Picture25.png)
 
 ***Figure 2: LTspice Schematic of F2 expression***
 
@@ -178,7 +178,7 @@ So, with the given inputs, the voltage source will start at initial value, then 
 - VC = `PULSE(0 5 0 1n 1n 15u 20u)`
 - VD = `PULSE(0 5 0 1n 1n 20u 25u)`
 - 
-![image](https://github.com/user-attachments/assets/950163c2-41ea-42b3-9ff1-526847629184)
+![image](https://github.com/Jyothi181/Pictures/blob/main/Picture26.png)
 
 ***Figure 3: LTspice Schematic of F3 expression***
 
@@ -192,11 +192,11 @@ So, with the given inputs, the voltage source will start at initial value, then 
 - VS = `PULSE(0 5 0 1n 1n 20u 25u)`
 - VT = `PULSE(0 5 0 1n 1n 25u 30u)`
    
-![image](https://github.com/user-attachments/assets/3e2d66aa-4dd3-4f35-a456-b5db89d19bb1)
+![image](https://github.com/Jyothi181/Pictures/blob/main/Picture27.png)
 
 ***Figure 4: LTspice Schematic oF F4 expression***
   
-![image](https://github.com/user-attachments/assets/51836955-42f6-4f4a-9edf-70fab7f85c2b)     ![image](https://github.com/user-attachments/assets/bb7ca75d-5e6f-4e98-a6da-90c0c25efadf)
+![image](https://github.com/Jyothi181/Pictures/blob/main/Picture28.png)     ![image](https://github.com/Jyothi181/Pictures/blob/main/Picture29.png)
 
 ## Schematic of Half Adder
 
@@ -205,7 +205,7 @@ So, with the given inputs, the voltage source will start at initial value, then 
 - VA = `PULSE(0 5 0 1n 1n 5u 10u)`
 - VB = `PULSE(0 5 0 1n 1n 10u 20u)`
   
-![image](https://github.com/user-attachments/assets/d3c34bb6-aaf5-406b-bfcd-5d19fff35151)
+![image](https://github.com/Jyothi181/Pictures/blob/main/Picture30.png)
 
 ***Figure 5: LTspice Schematic of Half Adder***
 
@@ -222,31 +222,31 @@ The pulse rises from initial value to pulse value. Depending on the pulse width 
 
 The graphs VA - V(a), VB - V(b) and Vout - V(f1) represent the inputs and output respectively
 
-![image](https://github.com/user-attachments/assets/f7fe5e02-8d18-40c7-916a-6e6532118727)
+![image](https://github.com/Jyothi181/Pictures/blob/main/Picture31.png)
 
 ***Figure 6: Simulated waveform of F1 expression***
 
 The graphs VA - V(n002), VB - V(n005), VC  - V(n008), VD - V(n009) and Vout - V(f2) represent the inputs and output respectively
  
-![image](https://github.com/user-attachments/assets/7eb0bcad-9371-41a1-a121-aa5111724a70)
+![image](https://github.com/Jyothi181/Pictures/blob/main/Picture32.png)
 
 ***Figure 7: Simulated waveform of F2 expression***
 
 The graphs VA - V(n002), VB - V(n003), VC  - V(n008), VD - V(n009) and Vout - V(f3) represent the inputs and output respectively
  
-![image](https://github.com/user-attachments/assets/9231d4fa-8630-485b-a044-c7eea8b8af74)
+![image](https://github.com/Jyothi181/Pictures/blob/main/Picture33.png)
 
 ***Figure 8: Simulated waveform of F3 expression***
 
 The graphs VP - V(p), VQ - V(q), VR  - V(r), VS - V(s) and VT - V(t) represent the inputs and output respectively
 
-![image](https://github.com/user-attachments/assets/08118754-7524-4432-abbd-de139d91256b)
+![image](https://github.com/Jyothi181/Pictures/blob/main/Picture34.png)
 
 ***Figure 9: Simulated waveform of F4 expression***
 
 The graphs  VA - V(a), VB - V(b), Vout - V(sum), and Vout - V(carry) represent the inputs and output respectively
 
-![image](https://github.com/user-attachments/assets/5363f11f-8d20-439c-852b-be6eb6bb90e0)
+![image](https://github.com/Jyothi181/Pictures/blob/main/Picture35.png)
 
 ***Figure 10: Simulated waveform of Half Adder***
 
