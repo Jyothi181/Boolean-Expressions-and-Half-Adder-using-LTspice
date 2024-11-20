@@ -3,26 +3,26 @@
 This repository explains the implementation of Boolean expressions and Half Adder in CMOS Logic using LT Spice Simulator. This shows the schematics of Boolean expressions, Half Adder and plot the output waveform to verify the functionality.
 
 # Table of Contents
-- Introduction
-- Objectives
-- Project Structure
-- Boolean Expressions - Calculations
-- F1
-- F2
-- F3
-- F4
-- Half Adder
-- LTspice Simulation
-- Terms Description
-- Schematics
-- Schematic of F1
-- Schematic of F2
-- Schematic of F3
-- Schematic of F4
-- Schematic of Half Adder
-- Simulation Results
-- How to simulate
-- Results
+- [Introduction](#Introduction)
+- [Objectives](#Objectives)
+- [Project Structure](#Project-Structure)
+- [Boolean Expressions - Calculations](#Boolean-Expressions-Calculations)
+     - [F1](#F1)
+     - [F2](#F2)
+     - [F3](#F3)
+     - [F4](#F4)
+     - [Half Adder](#Half-Adder)
+- [LTspice Simulation](#LTspice-Simulation)
+     - [Terms Description](#Terms-Description)
+- [Schematics](#Schematics)
+     - [Schematic of F1](#Schematic-of-F1)
+     - [Schematic of F2](#Schematic-of-F2)
+     - [Schematic of F3](#Schematic-of-F3)
+     - [Schematic of F4](#Schematic-of-F4)
+     - [Schematic of Half Adder](#Schematic-of-Half-Adder)
+- [Simulation Results](#Simulation-Results)
+     - [How to simulate](#How-to-simulate)
+     - [Results](#Results)
 
 # Introduction
 **Logic Gate:** A logic gate is a device that performs logical operations on one or more binary inputs and produces a single binary output. The primary way of building logic gates uses diodes or transistors acting as electronic switches. Today, most logic gates are made from MOSFETs (metal–oxide–semiconductor field-effect transistors). Logic circuits include such devices as multiplexers, registers, arithmetic logic units (ALUs), computer memory and microprocessors which may contain more than 100 million logic gates. Basic gates, also known as elementary or fundamental gates, include the AND, OR and NOT gates. These gates operates on binary signals (0s and 1s) and provide the basis for all digit computations. Other gates such as XOR, XNOR, NAND and NOR can be derived from basic gates.
@@ -34,6 +34,9 @@ This repository explains the implementation of Boolean expressions and Half Adde
 **NMOS:** The NMOS transistor is an n-channel device. It conducts current when a positive voltage (logic high) is applied to its gate terminal with respect to the source terminal. In CMOS, MMOS acts as pull down network in which the source is connected to ground. When logic high(1) is applied is CMOS, the NMOS transistor turns on and connects the output to ground which makes the output to logic low(0).
 
 # Objectives
+
+**Expressions**
+
 a) F1 = A XOR B  
 b) F2 = (A+B) (C+D)  
 c) F3 = (A.B) + (C.D)  
