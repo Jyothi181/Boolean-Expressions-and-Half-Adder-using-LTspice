@@ -6,9 +6,23 @@ This repository explains the implementation of Boolean expressions and Half Adde
 - Introduction
 - Objectives
 - Project Structure
-- Boolean Expressions Calculations
-- Circuit Details
+- Boolean Expressions - Calculations
+- F1
+- F2
+- F3
+- F4
+- Half Adder
+- LTspice Simulation
+- Terms Description
+- Schematics
+- Schematic of F1
+- Schematic of F2
+- Schematic of F3
+- Schematic of F4
+- Schematic of Half Adder
 - Simulation Results
+- How to simulate
+- Results
 
 # Introduction
 **Logic Gate:** A logic gate is a device that performs logical operations on one or more binary inputs and produces a single binary output. The primary way of building logic gates uses diodes or transistors acting as electronic switches. Today, most logic gates are made from MOSFETs (metal–oxide–semiconductor field-effect transistors). Logic circuits include such devices as multiplexers, registers, arithmetic logic units (ALUs), computer memory and microprocessors which may contain more than 100 million logic gates. Basic gates, also known as elementary or fundamental gates, include the AND, OR and NOT gates. These gates operates on binary signals (0s and 1s) and provide the basis for all digit computations. Other gates such as XOR, XNOR, NAND and NOR can be derived from basic gates.
@@ -199,6 +213,8 @@ So, with the given inputs, the voltage source will start at initial value, then 
   
 ![image](https://github.com/Jyothi181/Pictures/blob/main/Picture28.png)     ![image](https://github.com/Jyothi181/Pictures/blob/main/Picture29.png)
 
+***Figure 5: Logic Symbol, Truth table and Logic Circuit of Half Adder***
+
 ## Schematic of Half Adder
 
 - VA and VB are input voltages
@@ -208,7 +224,7 @@ So, with the given inputs, the voltage source will start at initial value, then 
   
 ![image](https://github.com/Jyothi181/Pictures/blob/main/Picture30.png)
 
-***Figure 5: LTspice Schematic of Half Adder***
+***Figure 6: LTspice Schematic of Half Adder***
 
 # Simulation Results
 
@@ -225,31 +241,31 @@ The graphs VA - V(a), VB - V(b) and Vout - V(f1) represent the inputs and output
 
 ![image](https://github.com/Jyothi181/Pictures/blob/main/Picture31.png)
 
-***Figure 6: Simulated waveform of F1 expression***
+***Figure 7: Simulated waveform of F1 expression***
 
 The graphs VA - V(n002), VB - V(n005), VC  - V(n008), VD - V(n009) and Vout - V(f2) represent the inputs and output respectively
  
 ![image](https://github.com/Jyothi181/Pictures/blob/main/Picture32.png)
 
-***Figure 7: Simulated waveform of F2 expression***
+***Figure 8: Simulated waveform of F2 expression***
 
 The graphs VA - V(n002), VB - V(n003), VC  - V(n008), VD - V(n009) and Vout - V(f3) represent the inputs and output respectively
  
 ![image](https://github.com/Jyothi181/Pictures/blob/main/Picture33.png)
 
-***Figure 8: Simulated waveform of F3 expression***
+***Figure 9: Simulated waveform of F3 expression***
 
 The graphs VP - V(p), VQ - V(q), VR  - V(r), VS - V(s) and VT - V(t) represent the inputs and output respectively
 
 ![image](https://github.com/Jyothi181/Pictures/blob/main/Picture34.png)
 
-***Figure 9: Simulated waveform of F4 expression***
+***Figure 10: Simulated waveform of F4 expression***
 
 The graphs  VA - V(a), VB - V(b), Vout - V(sum), and Vout - V(carry) represent the inputs and output respectively
 
 ![image](https://github.com/Jyothi181/Pictures/blob/main/Picture35.png)
 
-***Figure 10: Simulated waveform of Half Adder***
+***Figure 11: Simulated waveform of Half Adder***
 
 
 
