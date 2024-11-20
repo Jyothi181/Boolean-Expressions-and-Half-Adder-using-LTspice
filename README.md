@@ -170,7 +170,7 @@ So, with the given inputs, the voltage source will start at initial value, then 
 - VA = `PULSE(0 5 0 1n 1n 5u 10u)`
 - VB = `PULSE(0 5 0 1n 1n 10u 20u)`
 
-![image](https://github.com/Jyothi181/Pictures/blob/main/Picture24.png)
+![image](https://github.com/Jyothi181/Boolean-Expressions-and-Half-Adder-using-LTspice/blob/main/Boolean_Exp_Images/Picture24.png)
 
 ***Figure 1: LTspice Schematic of F1 expression***
 
@@ -183,7 +183,7 @@ So, with the given inputs, the voltage source will start at initial value, then 
 - VC = `PULSE(0 5 0 1n 1n 15u 20u)`
 - VD = `PULSE(0 5 0 1n 1n 20u 25u)`
    
-![image](https://github.com/Jyothi181/Pictures/blob/main/Picture25.png)
+![image](https://github.com/Jyothi181/Boolean-Expressions-and-Half-Adder-using-LTspice/blob/main/Boolean_Exp_Images/Picture25.png)
 
 ***Figure 2: LTspice Schematic of F2 expression***
 
@@ -196,7 +196,7 @@ So, with the given inputs, the voltage source will start at initial value, then 
 - VC = `PULSE(0 5 0 1n 1n 15u 20u)`
 - VD = `PULSE(0 5 0 1n 1n 20u 25u)`
 - 
-![image](https://github.com/Jyothi181/Pictures/blob/main/Picture26.png)
+![image](https://github.com/Jyothi181/Boolean-Expressions-and-Half-Adder-using-LTspice/blob/main/Boolean_Exp_Images/Picture26.png)
 
 ***Figure 3: LTspice Schematic of F3 expression***
 
@@ -210,11 +210,11 @@ So, with the given inputs, the voltage source will start at initial value, then 
 - VS = `PULSE(0 5 0 1n 1n 20u 25u)`
 - VT = `PULSE(0 5 0 1n 1n 25u 30u)`
    
-![image](https://github.com/Jyothi181/Pictures/blob/main/Picture27.png)
+![image](https://github.com/Jyothi181/Boolean-Expressions-and-Half-Adder-using-LTspice/blob/main/Boolean_Exp_Images/Picture27.png)
 
 ***Figure 4: LTspice Schematic oF F4 expression***
   
-![image](https://github.com/Jyothi181/Pictures/blob/main/Picture28.png)     ![image](https://github.com/Jyothi181/Pictures/blob/main/Picture29.png)
+![image](https://github.com/Jyothi181/Boolean-Expressions-and-Half-Adder-using-LTspice/blob/main/Boolean_Exp_Images/Picture28.png)     ![image](https://github.com/Jyothi181/Boolean-Expressions-and-Half-Adder-using-LTspice/blob/main/Boolean_Exp_Images/Picture29.png)
 
 ***Figure 5: Logic Symbol, Truth table and Logic Circuit of Half Adder***
 
@@ -225,7 +225,7 @@ So, with the given inputs, the voltage source will start at initial value, then 
 - VA = `PULSE(0 5 0 1n 1n 5u 10u)`
 - VB = `PULSE(0 5 0 1n 1n 10u 20u)`
   
-![image](https://github.com/Jyothi181/Pictures/blob/main/Picture30.png)
+![image](https://github.com/Jyothi181/Boolean-Expressions-and-Half-Adder-using-LTspice/blob/main/Boolean_Exp_Images/Picture30.png)
 
 ***Figure 6: LTspice Schematic of Half Adder***
 
@@ -242,31 +242,31 @@ The pulse rises from initial value to pulse value. Depending on the pulse width 
 
 The graphs VA - V(a), VB - V(b) and Vout - V(f1) represent the inputs and output respectively
 
-![image](https://github.com/Jyothi181/Pictures/blob/main/Picture31.png)
+![image](https://github.com/Jyothi181/Boolean-Expressions-and-Half-Adder-using-LTspice/blob/main/Boolean_Exp_Images/Picture31.png)
 
 ***Figure 7: Simulated waveform of F1 expression***
 
 The graphs VA - V(n002), VB - V(n005), VC  - V(n008), VD - V(n009) and Vout - V(f2) represent the inputs and output respectively
  
-![image](https://github.com/Jyothi181/Pictures/blob/main/Picture32.png)
+![image](https://github.com/Jyothi181/Boolean-Expressions-and-Half-Adder-using-LTspice/blob/main/Boolean_Exp_Images/Picture32.png)
 
 ***Figure 8: Simulated waveform of F2 expression***
 
 The graphs VA - V(n002), VB - V(n003), VC  - V(n008), VD - V(n009) and Vout - V(f3) represent the inputs and output respectively
  
-![image](https://github.com/Jyothi181/Pictures/blob/main/Picture33.png)
+![image](https://github.com/Jyothi181/Boolean-Expressions-and-Half-Adder-using-LTspice/blob/main/Boolean_Exp_Images/Picture33.png)
 
 ***Figure 9: Simulated waveform of F3 expression***
 
 The graphs VP - V(p), VQ - V(q), VR  - V(r), VS - V(s) and VT - V(t) represent the inputs and output respectively
 
-![image](https://github.com/Jyothi181/Pictures/blob/main/Picture34.png)
+![image](https://github.com/Jyothi181/Boolean-Expressions-and-Half-Adder-using-LTspice/blob/main/Boolean_Exp_Images/Picture34.png)
 
 ***Figure 10: Simulated waveform of F4 expression***
 
 The graphs  VA - V(a), VB - V(b), Vout - V(sum), and Vout - V(carry) represent the inputs and output respectively
 
-![image](https://github.com/Jyothi181/Pictures/blob/main/Picture35.png)
+![image](https://github.com/Jyothi181/Boolean-Expressions-and-Half-Adder-using-LTspice/blob/main/Boolean_Exp_Images/Picture35.png)
 
 ***Figure 11: Simulated waveform of Half Adder***
 
