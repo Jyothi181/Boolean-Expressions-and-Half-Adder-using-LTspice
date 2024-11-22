@@ -6,7 +6,7 @@ This repository explains the implementation of Boolean expressions and Half Adde
 - [Introduction](#Introduction)
 - [Objectives](#Objectives)
 - [Project Structure](#Project-Structure)
-- [Boolean Expressions & Calculations](#Boolean-Expressions-&-Calculations)
+- [Boolean Expressions and Calculations](#Boolean-Expressions-and-Calculations)
      - [F1](#F1)
      - [F2](#F2)
      - [F3](#F3)
@@ -58,7 +58,7 @@ d) F4 = (PQ + R(S+T))’
 - F4.asc : LTspice simulation file for F4 expression.
 - HALF_ADDER.asc : LTspice simulation file for Half adder.
 
-# Boolean Expressions & Calculations
+# Boolean Expressions and Calculations
 
 ## F1
 F1 = A’B +AB’  
